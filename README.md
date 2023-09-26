@@ -11,7 +11,7 @@ Welcome to my Portfolio, over here you will find a range of data analytics proje
 ## SQL
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-|(8 Weeks SQL Challenge)[https://github.com/han-tran-gia/8-weeks-sql-challenge.git]|Data Cleaning, Querying Data, Data Analysis|This repository contained my solutions for the 8 case studies from the #8WeekSQLChallenge.
+|[8 Weeks SQL Challenge](https://github.com/han-tran-gia/8-weeks-sql-challenge.git)|Data Cleaning, Querying Data, Data Analysis|This repository contained my solutions for the 8 case studies from the #8WeekSQLChallenge.
 
 It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
 ## [Data Wrangling]
