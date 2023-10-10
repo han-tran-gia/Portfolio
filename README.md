@@ -13,6 +13,11 @@ Welcome to my Portfolio, over here you will find a range of data analytics proje
 |---|---|---|
 |[8 Weeks SQL Challenge](https://github.com/han-tran-gia/8-weeks-sql-challenge.git)|Data Cleaning, Querying Data, Data Analysis|This repository contained my solutions for the 8 case studies from the #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.|
 
+## Power BI
+| Project Link | Project Description |
+|---|---|
+| [Global Superstore Sales Analysis](https://github.com/han-tran-gia/PowerBI-Global_Superstore_Sales_Analysis.git)) | Global Superstore is a global online retailer based in New York, having branches in 147 different countries, with more than 10.000 products. This year, the senior manager wants to see information about the sales situation in order to formulate a market expansion strategy and make decisions regarding strategic product choices. |
+
 ## Python
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
