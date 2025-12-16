@@ -3,16 +3,16 @@ Hi my name is Han Tran Gia
 Welcome to my Portfolio, over here you will find a range of data analytics projects I have worked on and also a few that I am currently working on. Feel free to check out the different projects.
 
 ## Table of Content
-- Projects (
+- Projects (#project)
 - [SQL](#sql)
 - [Power BI](#power-bi)
 - [Python](#python)
 - [Machine Learning](#machine-learning)
 
 ## Projects
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-
+| Project Link | Project Description | 
+|---|---|
+|[HR Turnover Analysis](https://github.com/han-tran-gia/HR-turnover-analysis-edtech/tree/main)| This project focuses on diagnosing employee attrition and hiring inefficiencies in an EdTech company facing severe talent loss|
 
 ## SQL
 | Project Link | Area of Analysis | Project Description | 
